@@ -1,0 +1,8 @@
+# Cloudflare Pages configuration for Git integration
+# CLI deployment is disabled - use Cloudflare Pages dashboard instead
+
+name = "carboniq"
+compatibility_date = "2024-09-30"
+
+# This configuration is for Cloudflare Pages (not Workers)
+# Deploy via Git integration at: https://dash.cloudflare.com/pages
